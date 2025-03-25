@@ -1,6 +1,7 @@
 # OAS
 An online auction web application created in Next.js, inspired by eBay and TCGPlayer.    
 The Online Auction System (OAS) is an auction system aimed towards trading card collectors. The system is equipped with functions to create and update auction listings, as well as placing bids in real time. The OAS is developed as a basis for a web auction system and ensures ease of deployment locally for testing purposes before being hosted on a server, with a simple database that is imported and managed by the backend RESTful API. 
+This repository houses the front-end only. Download the backend from https://github.com/ElizabethYumio/OAS_API
 
 # A.	System Requirements
 **•	Visual Studio Code (for ease of deployment)**
